@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📫 How to reach me: jeronimosiabela@gmail.com 
+- 📫 How to reach me: jeronimosiabela at gmail.com 
 - 🌱 I’m currently learning Russian
 - 👾 trying to get better at python 🐍 and C ©️
 
