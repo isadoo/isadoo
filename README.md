@@ -1,7 +1,6 @@
-### Hi there 👋
+
 - 📫 How to reach me: jeronimosiabela at gmail.com 
-- 🌱 I’m currently learning Russian
-- 👾 trying to get better at python 🐍 and C ©️
+
 
 I am interested in population genetics and theoretical evolution!
 [Here is the code for my current research.](https://github.com/isadoo/evolution_of_covariance/blob/master/recomb_additive.py)
