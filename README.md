@@ -2,7 +2,7 @@
 - 📫 How to reach me: jeronimosiabela at gmail.com 
 
 
-I am interested in population genetics and theoretical evolution!
+I am interested in population and quantitative genetics
 
 
 
